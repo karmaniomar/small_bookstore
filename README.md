@@ -20,12 +20,12 @@ To run the Bookstore Management System on your local machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/karmaniomar/small_bookstore.git
-   cd bookstore-management
+   cd small_bookstore
    ```
 
 2. **Run the script**:
    ```bash
-   python bookstore.py
+   python small_bookstore.py
    ```
 
 ## 📝 Usage
@@ -81,7 +81,3 @@ The system uses a SQLite database (`small_bookstore_stock.db`) with the followin
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-
----
-
-Let me know if you'd like any modifications! 🚀
